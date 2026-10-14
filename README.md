@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Bahadir-Saygi&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme&color=7c3aed&style=for-the-badge" alt="views" />
+<img src="https://hits.sh/github.com/Bahadir-Saygi.svg?style=for-the-badge&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=7c3aed" alt="views" />
 <img src="https://img.shields.io/github/followers/Bahadir-Saygi?style=for-the-badge&logo=github&color=06b6d4" alt="followers" />
 
 <br/><br/>
