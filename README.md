@@ -131,10 +131,6 @@ Ben Bahadır, bir **Full Stack Developer**'ım. Profesyonel web siteleri tasarl�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadir-Saygi&theme=tokyonight&hide_border=true&border_radius=16" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bahadir-Saygi&theme=tokyo-night&hide_border=true&area=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="activity graph" width="100%" />
-
 </div>
 
 ---
