@@ -1,16 +1,18 @@
-## Hi there 👋
+### Selam, ben Bahadır (nowace) 👋
 
-<!--
-**Bahadir-Saygi/Bahadir-Saygi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Şu anda aktif olarak Full-stack web uygulamaları, Discord botları, FiveM sistemleri ve Unity üzerinde 3D oyun projeleri geliştiriyorum. Aynı zamanda **DYNASTY** ekibinin bir parçasıyım.
 
-Here are some ideas to get you started:
+- 💻 **Nelerle Uğraşıyorum:** Node.js, C#, React, Tailwind, Lua, Python
+- 🎮 **Oyun & Yayın:** Boş zamanlarımda FACEIT'te CS2 ve çeşitli oyunlar oynuyor, Kick'te yayın yapıyorum.
+- 🎵 **Ekstra:** FL Studio'da "Baha-Wace" adıyla trap/drill beatleri yapıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://kick.com/nowace" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-Stream-black?style=for-the-badge&logo=kick" alt="Kick" />
+  </a>
+</p>
+
+### 📊 GitHub İstatistiklerim
+![Bahadır'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Bahadir-Saygi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Bahadir-Saygi&layout=compact&theme=tokyonight&hide_border=true)
