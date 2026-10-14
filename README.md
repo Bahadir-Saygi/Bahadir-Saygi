@@ -1,51 +1,52 @@
-<h1 align="center">Selam, Ben Bahadır (Nowace) ⚡</h1>
+<!-- ÜST HAREKETLİ DALGA BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=NOWACE%20//%20BAHADIR&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20Game%20%26%20FiveM%20Developer%20%7C%20AI%20Systems&descAlignY=58&descSize=18" width="100%" />
+</div>
 
-<!-- Animasyonlu Kayan Yazı -->
+<!-- DAKTİLO ANİMASYONU (NEON) -->
 <div align="center">
   <a href="https://nowace.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Game+%26+FiveM+Developer;Discord+Bot+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%3E+System.init(%22Nowace_OS_v2026%22)...;%3E+Building+Next-Gen+Web+%26+Game+Architectures;+%22Yarat%C4%B1c%C4%B1+fikirler%2C+do%C4%9Fru+yolda.%22" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Sosyal Medya Rozetleri -->
+<!-- SOSYAL MEDYA & LİNK ROZETLERİ -->
 <div align="center">
-  <a href="https://nowace.me/"><img src="https://img.shields.io/badge/Website-nowace.me-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://kick.com/nowace"><img src="https://img.shields.io/badge/Kick-Stream-00E701?style=for-the-badge&logo=kick&logoColor=black"></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-DYNASTY-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://nowace.me/">
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-nowace.me-00F7FF?style=for-the-badge&labelColor=0d1117" alt="Website" />
+  </a>
+  <a href="https://kick.com/nowace">
+    <img src="https://img.shields.io/badge/KICK-LIVE_STREAM-53FC18?style=for-the-badge&logo=kick&logoColor=black&labelColor=0d1117" alt="Kick" />
+  </a>
+  <a href="https://nowace.me/">
+    <img src="https://img.shields.io/badge/DISCORD-DYNASTY_%26_DEV-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bahadir-Saygi&label=VISITORS&color=ff0055&style=for-the-badge&labelColor=0d1117" alt="Views" />
 </div>
 
 <br>
 
-### 🚀 Neler Yapıyorum?
-Dijital dünyada iz bırakan çözümler üretiyorum. Kendi [web sitemde (nowace.me)](https://nowace.me/) detaylıca görebileceğin gibi;
+<!-- HAREKETLİ RGB AYIRICI ÇİZGİ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 💻 **Web & Bot Development:** Next.js ve React ile modern web siteleri, Node.js ile kapsamlı otomasyon sistemleri geliştiriyorum. *(Bkz: Bronx RPG Bot)*
-- 🎮 **Game Development:** Unity (C#) ile oyun geliştirme süreçlerinde ve FiveM (Lua) için script yazımı/sunucu yönetiminde aktif rol alıyorum. *(Bkz: KenziV)*
-- 🤖 **Yapay Zeka:** PC üzerinde çalışan sesli asistan ve kişisel yardımcı **NA Jarvis** gibi yenilikçi projeler üretiyorum.
-- 📱 **Mobil Uygulama:** Deprem bilgilendirme sistemi **Quakora** (React Native) gibi hayat kurtarıcı projeler üzerinde çalışıyorum.
+### ⚡ `whoami` // Sistem Özeti
 
-### 🛠️ Teknolojiler & Araçlar
-<!-- Hareketli İkonlar -->
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,python,cs,unity,mongodb,mysql,git,html,css,discord&perline=8" />
-  <br>
-</div>
-
-### 📊 GitHub İstatistikleri & Aktiviteler
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahadir-Saygi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahadir-Saygi&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahadir-Saygi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Yaratıcı fikirler, doğru yolda."</i><br>
-  <!-- Canlı Profil Görüntülenme Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=Bahadir-Saygi&label=Profil+Görüntülenme&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      
+```ts
+const nowace = {
+  isim: "Bahadır Saygı",
+  unvan: "Full-Stack & Game Developer",
+  ekip: ["DYNASTY", "Vibe Streets"],
+  uzmanliklar: [
+    "Modern Web Mimarisı (Next.js, React, TS, Shaders)",
+    "Oyun Geliştirme (Unity 3D, C#, Mirror Networking)",
+    "FiveM Ekosistemi (QBCore/ESX, Özel Lua Scriptler)",
+    "Otomasyon & AI (Masaüstü HUD Asistanları, Discord.js)",
+    "Sunucu & Altyapı (Docker, VDS, Cloudflare Zero Trust)"
+  ],
+  ekstra: "FL Studio'da (Baha-Wace) Dark Trap/Drill Prodüksiyonu 🎵",
+  durum: "Yeni nesil projeler inşa ediyor... 🚀"
+};
